@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="UC03S03 - Dashboard" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="4a4d00ae-a7e7-4186-930f-746911dbe941" weightsEnabled="false">
+    <weighted-embedded-action uid="e867876b-3558-46a9-aa65-f9e84542011b"/>
+</basic-logical-action-container>

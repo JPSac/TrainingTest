@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="UC03S02 - Sign In" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="31a92022-52c7-44ee-a6d0-b54bb4a3f3ba" weightsEnabled="false">
+    <weighted-embedded-action uid="03ced0e2-682f-47b0-b580-df84b69debd4"/>
+</basic-logical-action-container>

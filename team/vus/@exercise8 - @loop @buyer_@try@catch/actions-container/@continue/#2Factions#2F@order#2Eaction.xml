@@ -1,0 +1,9 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/actions/Order.action" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@exercise8 - @loop @buyer_@try@catch/%resources%/recorded-artifacts/1368e614-7bd1-4130-a27f-63924e63263f.zip"
+    slaProfileEnabled="false" thinkTime="4387"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="1368e614-7bd1-4130-a27f-63924e63263f">
+    <screenshotFileDescription>recorded-screenshots/sc_604c7f03-34c1-472b-abd6-64d4171d03f8.jpg</screenshotFileDescription>
+</http-page>

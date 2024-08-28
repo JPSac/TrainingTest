@@ -1,0 +1,6 @@
+<variable-list name="Param_Address" offset="1" order="2" policy="5" range="2" uid="e5be76f7-c47d-4af6-bdfe-fb0b73a67b06" whenOutOfValues="CYCLE_VALUES">
+<column name="City" number="0"/>
+<column name="State" number="1"/>
+<column name="Zip Code" number="2"/>
+<values><![CDATA[rO0ABXVyABRbW0xqYXZhLmxhbmcuU3RyaW5nOzJNCa2EMuRXAgAAeHAAAAAEdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAA3QABkJvc3RvbnQAAk1BdAAFMDIxMzR1cQB+AAIAAAADdAAGUmFuZG9tdAACV0l0AAU1MzA3NXVxAH4AAgAAAAN0AA1CZXZlcmx5IEhpbGxzdAACQ0F0AAU5MDIxMHVxAH4AAgAAAAN0AARFY2hvdAACT1J0AAU5NzgyNg==]]></values>
+</variable-list>

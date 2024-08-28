@@ -1,0 +1,5 @@
+<variable-file delimiters="," filename="variables/Param_Data.csv" name="Param_Data" offset="1" order="2" policy="5" range="1" uid="9cc76767-89f8-443c-b721-2a06c28cacd7" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<column name="Animal" number="0"/>
+<column name="ItemID" number="2"/>
+<column name="ProductID" number="1"/>
+</variable-file>

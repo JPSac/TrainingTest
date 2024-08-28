@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="CBP01S03 - Dashboard" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="66578e26-cccb-46aa-b246-bbe819accaa3" weightsEnabled="false">
+    <weighted-embedded-action uid="b37485a8-a3df-456f-b7af-907c1111fb6b"/>
+    <weighted-embedded-action uid="80e321cc-6165-4544-8e9b-be2c18644412"/>
+</basic-logical-action-container>

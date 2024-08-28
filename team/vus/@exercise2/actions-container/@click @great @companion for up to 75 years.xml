@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Click Great Companion for up to 75 years" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="286f6c11-01a8-481b-85d0-2f8bb7430d73" weightsEnabled="false">
+    <weighted-embedded-action uid="6a963108-b59b-4f03-905d-96996cf24fe0"/>
+</basic-logical-action-container>

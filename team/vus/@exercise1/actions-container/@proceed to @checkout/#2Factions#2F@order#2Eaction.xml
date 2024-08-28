@@ -1,0 +1,54 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/actions/Order.action" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@exercise1/%resources%/recorded-artifacts/ddd04020-5146-4b1c-a1df-5eed5064b036.zip"
+    slaProfileEnabled="false" thinkTime="1229"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="ddd04020-5146-4b1c-a1df-5eed5064b036">
+    <embedded-action>d4683d2e-ea46-49f3-b144-3001eba4de15</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_adf03ac6-e7c6-465c-ab2b-2fe21bdf66cf.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/actions/Order.action"
+    path="/actions/Order.action" postType="6"
+    recordedArtifactZipFileName="team/vus/@exercise1/%resources%/recorded-artifacts/ddd04020-5146-4b1c-a1df-5eed5064b036.zip"
+    recordedResponseCode="200"
+    refererUid="53a1cb79-fc55-4727-8f8e-75e52e4380fb"
+    responseSize="5393" serverUid="petstore.octoperf.com"
+    slaProfileEnabled="false" uid="d4683d2e-ea46-49f3-b144-3001eba4de15" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e70ae88a-e566-43cf-972b-cc7b61d4ace9.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e70ae88a-e566-43cf-972b-cc7b61d4ace9.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="newOrderForm"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${corr_sessionId}"/>
+    <header name="Host" value="petstore.octoperf.com"/>
+    <header name="Referer" value="https://petstore.octoperf.com/actions/Cart.action?addItemToCart=&amp;workingItemId=${corr_itemId}"/>
+    <header name="sec-ch-ua" value="&quot;Not)A;Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;127&quot;, &quot;Chromium&quot;;v=&quot;127&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="document"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="Sec-Fetch-User" value="?1"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+Date: Mon, 29 Jul 2024 22:18:35 GMT&#xd;
+Content-Type: text/html;charset=UTF-8&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Language: en-US&#xd;
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload&#xd;
+Content-Encoding: gzip</responseHeaders>
+    <record-html-infos extractorContent="Proceed to Checkout"
+        extractorOccurence="14" extractorRegExp="false" htmlType="1"/>
+</http-action>

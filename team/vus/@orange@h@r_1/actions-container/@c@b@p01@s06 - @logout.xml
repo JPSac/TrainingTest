@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="CBP01S06 - Logout" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="6c55b54e-93cc-4bfb-a649-3cdbd7212d37" weightsEnabled="false">
+    <weighted-embedded-action uid="8f4bf3ca-ca1f-40ff-bbf7-66ab26c513bf"/>
+</basic-logical-action-container>

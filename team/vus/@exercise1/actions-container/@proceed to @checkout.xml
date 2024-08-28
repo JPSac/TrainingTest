@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="Proceed to Checkout" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="56149fbc-f004-4708-9416-b8c44624d5c6" weightsEnabled="false">
+    <weighted-embedded-action uid="ddd04020-5146-4b1c-a1df-5eed5064b036"/>
+</basic-logical-action-container>

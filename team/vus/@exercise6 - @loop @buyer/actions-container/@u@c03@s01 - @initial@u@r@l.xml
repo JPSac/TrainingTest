@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="UC03S01 - InitialURL" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="d0fb82ff-0236-467e-9e74-c99e16662d28" weightsEnabled="false">
+    <weighted-embedded-action uid="6197d732-be40-40e3-a46e-45ef4ad98b4b"/>
+</basic-logical-action-container>

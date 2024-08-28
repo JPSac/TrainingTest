@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="CBP01S02 - Sign In" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="f66b46bf-991a-4d2b-b395-247de4dfdd4c" weightsEnabled="false">
+    <weighted-embedded-action uid="6338bc2d-2603-4197-8f7c-514330e0e182"/>
+</basic-logical-action-container>

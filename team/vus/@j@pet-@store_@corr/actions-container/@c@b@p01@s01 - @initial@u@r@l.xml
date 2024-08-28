@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="CBP01S01 - InitialURL" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="5c8ab6cb-8f2f-4a49-b425-609b8de482db" weightsEnabled="false">
+    <weighted-embedded-action uid="79b83f08-0d3d-4a34-8f69-aab0c2d07059"/>
+    <weighted-embedded-action uid="064d698a-79f0-462e-af52-cc92073866be"/>
+</basic-logical-action-container>

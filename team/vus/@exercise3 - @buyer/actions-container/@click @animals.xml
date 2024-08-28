@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Click Animals" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="448c68ca-32ff-4171-88d3-8eb2c6d391f3" weightsEnabled="false">
+    <weighted-embedded-action uid="669e5be4-96d4-4379-b19e-c795cafd7725"/>
+</basic-logical-action-container>

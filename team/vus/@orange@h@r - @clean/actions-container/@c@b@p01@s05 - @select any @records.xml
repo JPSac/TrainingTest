@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="CBP01S05 - Select any Records" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="87b1a95f-36b2-42c7-966a-36460acee167" weightsEnabled="false">
+    <weighted-embedded-action uid="1e78358e-f107-431d-915a-8cb3c6fa8e9c"/>
+</basic-logical-action-container>

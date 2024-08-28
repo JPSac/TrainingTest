@@ -1,0 +1,23 @@
+POST https://petstore.octoperf.com:443/actions/Order.action HTTP/1.1
+Host: petstore.octoperf.com
+Connection: keep-alive
+Content-Length: 561
+Cache-Control: max-age=0
+sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: https://petstore.octoperf.com
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://petstore.octoperf.com/actions/Order.action?newOrderForm=
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+Cookie: JSESSIONID=2E3A7C9BE3D1242B9D75014610FE3F54
+
+order.cardType=Visa&order.creditCard=999+9999+9999+9999&order.expiryDate=12%2F03&order.billToFirstName=ABC&order.billToLastName=XYX&order.billAddress1=901+San+Antonio+Road&order.billAddress2=MS+UCUP02-206&order.billCity=Palo+Alto&order.billState=CA&order.billZip=94303&order.billCountry=USA&newOrder=Continue&_sourcePage=ppZ9ebCB-iX4DwC10qaki6mp6RSP_4KldAyKHHPO98e2TbLuzORv_onkt78ee-gvndx8o5PnbX-THJVhq0Rfv7Sa_Ky-pvOO5a4DTgLaHTI%3D&__fp=NyB6ieZzwyckPmwe14rhJ05fmWu5pawO22-4z5BzxZG9I24zWoezQnMH1_gQFDQ1BRssTKaBr-yiv_84VTDqoYkSiy4uyKKWbNl2QHqkG2cVNDeh2CZNOw%3D%3D
