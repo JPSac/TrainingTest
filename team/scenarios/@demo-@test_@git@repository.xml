@@ -1,5 +1,6 @@
 <scenario postMonitoringTime="-1" preMonitoringTime="-1"
-    slaProfileEnabled="false" traceVariables="true" uid="scenario1" virtualUsersStates="true">
+    slaProfileEnabled="false" traceVariables="true"
+    uid="Demo-Test_GitRepository" virtualUsersStates="true">
     <!--****** POPULATION POLICY ******-->
     <population-policy name="JPet-Store_Param">
         <duration-policy-entry iterations="1" time="900" timeUnit="0" type="2"/>

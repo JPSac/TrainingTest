@@ -67,7 +67,7 @@ Public-Key-Pins: pin-sha256="blgmjf3Tb3C0sUqb7jo4axiZAnr327fX0ycrUGqjw2k=";pin-s
     <record-html-infos extractorRegExp="false" htmlType="0"/>
 </http-action>
 <http-action actionType="1"
-    eTag="&quot;BY94ts6Fi+1Yi8fPMZszFQOk+IVVK7mRggQqqOjvOzs=&quot;"
+    eTag="&quot;ZWs3TwZKMQ7IEEFBrjJOSwRM4nXcQgsOPZKkNJnMS5o=&quot;"
     extractorInjectPathPolicy="2" extractorPathPolicy="1"
     followRedirects="false" generatedByClient="false"
     linkExtractorSeveralMatchOccurrence="1"
